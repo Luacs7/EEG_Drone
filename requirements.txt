@@ -1,0 +1,9 @@
+#Dependency File
+
+pylsl
+cflib
+keyboard
+pyusb
+customtkinter
+
+pygame
