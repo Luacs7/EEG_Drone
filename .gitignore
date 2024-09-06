@@ -7,3 +7,5 @@ src/**/__pycache__/
 src/log/drone_project.log
 
 src/map/__pycache__/
+
+cache/
